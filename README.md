@@ -8,6 +8,6 @@ This API is used to create, manage and retrive data from Polling System
 3. Mongo DB
 
 # How to start this API project
-git clone https://github.com/deepdelu/polling_system_api
-npm install
-npm start
+1. git clone https://github.com/deepdelu/polling_system_api
+2. npm install
+3. npm start
